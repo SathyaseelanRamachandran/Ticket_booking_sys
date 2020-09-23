@@ -125,3 +125,4 @@ void booking_status()
                     cout<<"Checked in";
             }
 }
+
