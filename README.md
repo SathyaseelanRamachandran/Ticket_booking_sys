@@ -10,3 +10,4 @@ Here are the functions that is available:
 5) Allow sales manager to view and analyse total sales
 6) view total seats left and so on
 
+**Future enhancement: To develop the program in GUI(Graphical User Interface) using tkinter
