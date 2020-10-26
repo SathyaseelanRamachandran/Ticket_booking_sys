@@ -23,14 +23,15 @@ The program was developed upon request of code owner with features implemented a
 **The program was eventually created using Malaysian personal detail identifier 
 
 
-#Personal_Expenses_Calculator
+# Personal_Expenses_Calculator
 The program was developed by the request of code owner. The program background is to design and implement an android application
 and publish it. To be used by targeted users as college students, working adults or even retirees in order to calculate their daily expenses. 
 The features implemented are as follows:
 
 1) Enter few important details as user salary, expenses, rent, groceries and entertainment.
 2) Perform calculation and data operation
-3) calculate, analyse and display the exact amount of savings that can be saved by the individual by displaying appropriate message as well.
+3) Calculate, analyse and display the exact amount of savings that can be saved by the individual by displaying appropriate message as well
+
 
 
 
