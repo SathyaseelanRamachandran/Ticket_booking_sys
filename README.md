@@ -14,7 +14,7 @@ created as to provide idea and type of features that can be implemented. Targete
 
 
 # Personal_Detail_Identifier
-the program is targeted for every citizen in a country with registered ID(identification card with number)
+The program is targeted for every citizen in a country with registered ID(identification card with number)
 The program was developed upon request of code owner with features implemented as:
 
 1) Enable user to enter 12 registered digit without any space
